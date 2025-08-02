@@ -1,3 +1,3 @@
 # Task_02Aug2025
-creation of new repoistory 
-For testing purpose
+Hi Am mohan
+Am fresher to sodtware field need to learn automamtion 
