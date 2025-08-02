@@ -1,3 +1,4 @@
 # Task_02Aug2025
 Hi Am mohan
-Am fresher to sodtware field need to learn automamtion 
+Am fresher to software field need to learn automamtion 
+Am from pharma field 
